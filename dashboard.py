@@ -184,7 +184,7 @@ page_1_layout = html.Div([
             dcc.Dropdown(
                 id="stage-dropdown",
                 options=stage_options,
-                value=stages[0],
+                value=stages[0] if stages else None,
                 clearable=False,
                 style={"backgroundColor": "rgba(148, 52, 110, 0.3)", "color": prism[8]}
             ),
@@ -226,7 +226,7 @@ page_2_layout = html.Div([
         dcc.Dropdown(
             id="averages-stage-dropdown",
             options=stage_options,
-            value=stages[0],
+            value=stages[0] if stages else None,
             clearable=False,
             style={"width": "50%", "margin": "auto", "backgroundColor": "white", "color": "#333"}
         ),
