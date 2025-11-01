@@ -25,3 +25,14 @@ ______________________________________________________________________________
 4.	Automated data ingestion and aggregation from experiment logs
 5.	Provided actionable insights for lab staff to quickly make experiment decisions
 ## Example Views from Dashboard
+
+### Home page
+
+![home_page](https://github.com/joy-kissell/Williams-Data-Pipline/blob/main/Dashboard-Samples/home.png)
+![home_graph](https://github.com/joy-kissell/Williams-Data-Pipline/blob/main/Dashboard-Samples/home_graph.png)
+### Averages page
+
+![averages_page]([image-url](https://github.com/joy-kissell/Williams-Data-Pipline/blob/main/Dashboard-Samples/averages_page.png))
+### Recap page
+
+![recap_page]([image-url](https://github.com/joy-kissell/Williams-Data-Pipline/blob/main/Dashboard-Samples/recap_page.png))
