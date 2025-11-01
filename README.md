@@ -32,7 +32,7 @@ ______________________________________________________________________________
 ![home_graph](https://github.com/joy-kissell/Williams-Data-Pipline/blob/main/Dashboard-Samples/home_graph.png)
 ### Averages page
 
-![averages_page]([image-url](https://github.com/joy-kissell/Williams-Data-Pipline/blob/main/Dashboard-Samples/averages_page.png))
+![averages_page](https://github.com/joy-kissell/Williams-Data-Pipline/blob/main/Dashboard-Samples/averages_page.png)
 ### Recap page
 
-![recap_page]([image-url](https://github.com/joy-kissell/Williams-Data-Pipline/blob/main/Dashboard-Samples/recap_page.png))
+![recap_page](https://github.com/joy-kissell/Williams-Data-Pipline/blob/main/Dashboard-Samples/recap_page.png)
