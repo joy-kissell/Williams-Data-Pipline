@@ -1,6 +1,7 @@
 # Williams-Data-Pipeline
 
 *Tools: Python · MongoDB · Watchdog · Pandas · Dash · Plotly*
+![home_page](https://github.com/joy-kissell/Williams-Data-Pipline/blob/main/Dashboard-Samples/home.png)
 
 ## Summary
 Developed an automated Python ETL pipeline to load new CSV experiment data into MongoDB, parse key performance metrics, and calculate summary measures over time. Linked the database to an interactive dashboard (Dash + Plotly) for nontechnical lab staff to quickly interpret results and plan upcoming sessions.
